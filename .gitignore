@@ -1,1 +1,3 @@
-*.log\n.vscode/\n.idx/
+*.log
+.vscode/
+.idx/
